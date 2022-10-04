@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\DZ4.03.10\027\obj\Debug\net6.0\027.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\DZ4.03.10\027\obj\Debug\net6.0\027.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\DZ4.03.10\027\obj\Debug\net6.0\027.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\DZ4.03.10\027\obj\Debug\net6.0\027.AssemblyInfo.cs
+C:\Users\PC\Desktop\DZ4.03.10\027\obj\Debug\net6.0\027.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\DZ4.03.10\027\bin\Debug\net6.0\027.exe
+C:\Users\PC\Desktop\DZ4.03.10\027\bin\Debug\net6.0\027.deps.json
+C:\Users\PC\Desktop\DZ4.03.10\027\bin\Debug\net6.0\027.runtimeconfig.json
+C:\Users\PC\Desktop\DZ4.03.10\027\bin\Debug\net6.0\027.dll
+C:\Users\PC\Desktop\DZ4.03.10\027\bin\Debug\net6.0\027.pdb
+C:\Users\PC\Desktop\DZ4.03.10\027\obj\Debug\net6.0\027.dll
+C:\Users\PC\Desktop\DZ4.03.10\027\obj\Debug\net6.0\refint\027.dll
+C:\Users\PC\Desktop\DZ4.03.10\027\obj\Debug\net6.0\027.pdb
+C:\Users\PC\Desktop\DZ4.03.10\027\obj\Debug\net6.0\027.genruntimeconfig.cache
+C:\Users\PC\Desktop\DZ4.03.10\027\obj\Debug\net6.0\ref\027.dll
